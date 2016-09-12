@@ -4,44 +4,44 @@
         {
             "themeName": "N Theme - Gold Icon Pack",
             "packageName": "nlauncher.theme.a7.gold",
-            "picURL": "https://raw.githubusercontent.com/GreatAndroider/mresource/master/theme/theme_modern.jpg",
-            "iconURL": "https://raw.githubusercontent.com/GreatAndroider/mresource/master/theme/logo_morden.png"
+            "picURL": "https://raw.githubusercontent.com/craftsapp/nresource/master/theme/theme_gold.png",
+            "iconURL": "https://raw.githubusercontent.com/craftsapp/nresource/master/theme/logo_gold.png"
         },
         {
             "themeName": "N Theme - Flat UI Icon Pack",
             "packageName": "nlauncher.theme.a1.flatui",
-            "picURL": "https://raw.githubusercontent.com/GreatAndroider/mresource/master/theme/theme_win10.jpg",
-            "iconURL": "https://raw.githubusercontent.com/GreatAndroider/mresource/master/theme/logo_win10.png"
+            "picURL": "https://raw.githubusercontent.com/craftsapp/nresource/master/theme/theme_flatui.png",
+            "iconURL": "https://raw.githubusercontent.com/craftsapp/nresource/master/theme/logo_flatui.png"
         },
         {
             "themeName": "N Theme - Metal Icon Pack",
             "packageName": "nlauncher.theme.a5.metal",
-            "picURL": "https://raw.githubusercontent.com/GreatAndroider/mresource/master/theme/theme_stylish.jpg",
-            "iconURL": "https://raw.githubusercontent.com/GreatAndroider/mresource/master/theme/logo_stylish.png"
+            "picURL": "https://raw.githubusercontent.com/craftsapp/nresource/master/theme/theme_metal.png",
+            "iconURL": "https://raw.githubusercontent.com/craftsapp/nresource/master/theme/logo_meta.png"
         },
         {
             "themeName": "N Theme - Dark Green Icon Pack",
             "packageName": "nlauncher.theme.a2.darkgreen",
-            "picURL": "https://raw.githubusercontent.com/GreatAndroider/mresource/master/theme/theme_flatui.jpg",
-            "iconURL": "https://raw.githubusercontent.com/GreatAndroider/mresource/master/theme/logo_flatui.png"
+            "picURL": "https://raw.githubusercontent.com/craftsapp/nresource/master/theme/theme_darkgreen.png",
+            "iconURL": "https://raw.githubusercontent.com/craftsapp/nresource/master/theme/logo_darkgreen.png"
         },
         {
             "themeName": "N Theme - Fly Icon Pack",
             "packageName": "nlauncher.theme.a3.fly",
-            "picURL": "https://raw.githubusercontent.com/GreatAndroider/mresource/master/theme/theme_colorful.jpg",
-            "iconURL": "https://raw.githubusercontent.com/GreatAndroider/mresource/master/theme/logo_colorfulline.png"
+            "picURL": "https://raw.githubusercontent.com/craftsapp/nresource/master/theme/theme_fly.png",
+            "iconURL": "https://raw.githubusercontent.com/craftsapp/nresource/master/theme/logo_fly.png"
         },
         {
             "themeName": "N Theme - Breath Icon Pack",
             "packageName": "nlauncher.theme.a4.breath",
-            "picURL": "https://raw.githubusercontent.com/GreatAndroider/mresource/master/theme/theme_breath.jpg",
-            "iconURL": "https://raw.githubusercontent.com/GreatAndroider/mresource/master/theme/logo_breath.png"
+            "picURL": "https://raw.githubusercontent.com/craftsapp/nresource/master/theme/theme_breath.png",
+            "iconURL": "https://raw.githubusercontent.com/craftsapp/nresource/master/theme/logo_breath.png"
         },
         {
             "themeName": "N Theme - Galapagos Icon Pack",
             "packageName": "nlauncher.theme.a6.galapagos",
-            "picURL": "https://raw.githubusercontent.com/GreatAndroider/mresource/master/theme/theme_fly.jpg",
-            "iconURL": "https://raw.githubusercontent.com/GreatAndroider/mresource/master/theme/logo_fly.png"
+            "picURL": "https://raw.githubusercontent.com/craftsapp/nresource/master/theme/theme_galapagos.png",
+            "iconURL": "https://raw.githubusercontent.com/craftsapp/nresource/master/theme/logo_galapagos.png"
         }
     ]
 }
