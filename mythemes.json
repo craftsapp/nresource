@@ -2,43 +2,43 @@
     "status": 1,
     "data": [
         {
-            "themeName": "N Theme - Gold Icon Pack",
+            "themeName": "Gold Icon Pack",
             "packageName": "nlauncher.theme.a7.gold",
             "picURL": "https://raw.githubusercontent.com/craftsapp/nresource/master/theme/theme_gold.jpg",
             "iconURL": "https://raw.githubusercontent.com/craftsapp/nresource/master/theme/logo_gold.png"
         },
         {
-            "themeName": "N Theme - Flat UI Icon Pack",
+            "themeName": "Flat UI Icon Pack",
             "packageName": "nlauncher.theme.a1.flatui",
             "picURL": "https://raw.githubusercontent.com/craftsapp/nresource/master/theme/theme_flatui.jpg",
             "iconURL": "https://raw.githubusercontent.com/craftsapp/nresource/master/theme/logo_flatui.png"
         },
         {
-            "themeName": "N Theme - Metal Icon Pack",
+            "themeName": "Metal Icon Pack",
             "packageName": "nlauncher.theme.a5.metal",
             "picURL": "https://raw.githubusercontent.com/craftsapp/nresource/master/theme/theme_metal.jpg",
             "iconURL": "https://raw.githubusercontent.com/craftsapp/nresource/master/theme/logo_meta.png"
         },
         {
-            "themeName": "N Theme - Dark Green Icon Pack",
+            "themeName": "Dark Green Icon Pack",
             "packageName": "nlauncher.theme.a2.darkgreen",
             "picURL": "https://raw.githubusercontent.com/craftsapp/nresource/master/theme/theme_darkgreen.jpg",
             "iconURL": "https://raw.githubusercontent.com/craftsapp/nresource/master/theme/logo_darkgreen.png"
         },
         {
-            "themeName": "N Theme - Fly Icon Pack",
+            "themeName": "Fly Icon Pack",
             "packageName": "nlauncher.theme.a3.fly",
             "picURL": "https://raw.githubusercontent.com/craftsapp/nresource/master/theme/theme_fly.jpg",
             "iconURL": "https://raw.githubusercontent.com/craftsapp/nresource/master/theme/logo_fly.png"
         },
         {
-            "themeName": "N Theme - Breath Icon Pack",
+            "themeName": "Breath Icon Pack",
             "packageName": "nlauncher.theme.a4.breath",
             "picURL": "https://raw.githubusercontent.com/craftsapp/nresource/master/theme/theme_breath.jpg",
             "iconURL": "https://raw.githubusercontent.com/craftsapp/nresource/master/theme/logo_breath.png"
         },
         {
-            "themeName": "N Theme - Galapagos Icon Pack",
+            "themeName": "Galapagos Icon Pack",
             "packageName": "nlauncher.theme.a6.galapagos",
             "picURL": "https://raw.githubusercontent.com/craftsapp/nresource/master/theme/theme_galapagos.jpg",
             "iconURL": "https://raw.githubusercontent.com/craftsapp/nresource/master/theme/logo_galapagos.png"
