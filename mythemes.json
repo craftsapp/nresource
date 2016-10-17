@@ -1,6 +1,24 @@
 {
     "status": 1,
     "data": [
+         {
+            "themeName": "AD:TrafficJam",
+            "packageName": "com.UncleCiba.TrafficJam",
+            "picURL": "https://raw.githubusercontent.com/GreatAndroider/mresource/master/ads/ad_game_trafficjam.jpg",
+            "iconURL": "https://raw.githubusercontent.com/GreatAndroider/mresource/master/ads/ad_game_trafficjam_logo.jpg"
+         },
+         {
+            "themeName": "Animal Union",
+            "packageName": "craftsicons.iconpack.a2.animalunion",
+            "picURL": "https://raw.githubusercontent.com/GreatAndroider/mresource/master/theme/theme_animalunion.jpg",
+            "iconURL": "https://raw.githubusercontent.com/GreatAndroider/mresource/master/theme/logo_animalunion.png"
+        },
+        {
+            "themeName": "Gold Icons Pro",
+            "packageName": "craftsicons.iconpack.a1.gold",
+            "picURL": "https://raw.githubusercontent.com/GreatAndroider/mresource/master/theme/theme_goldpro.jpg",
+            "iconURL": "https://raw.githubusercontent.com/GreatAndroider/mresource/master/theme/logo_goldpro.png"
+        },        
         {
             "themeName": "Gold Icon Pack",
             "packageName": "nlauncher.theme.a7.gold",
