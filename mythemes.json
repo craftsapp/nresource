@@ -1,6 +1,12 @@
 {
     "status": 1,
     "data": [
+        {
+            "themeName": "Pixel Icon Pack",
+            "packageName": "craftsicons.iconpack.a3.pixel",
+            "picURL": "https://raw.githubusercontent.com/GreatAndroider/mresource/master//theme/theme_pixel_ui.jpg",
+            "iconURL": "https://raw.githubusercontent.com/GreatAndroider/mresource/master/theme/logo_pixel_ui.png"
+         },
          {
             "themeName": "AD:TrafficJam",
             "packageName": "com.UncleCiba.TrafficJam",
