@@ -2,6 +2,12 @@
     "status": 1,
     "data": [
         {
+            "themeName": "Vigour Icons",
+            "packageName": "craftsicons.iconpack.vigour.icons",
+            "picURL": "https://raw.githubusercontent.com/craftsapp/nresource/master/theme/theme_vigour_icons.jpg",
+            "iconURL": "https://raw.githubusercontent.com/craftsapp/nresource/master/theme/logo_goldpro.png"
+        },
+        {
             "themeName": "GX S8 Icons",
             "packageName": "craftsicons.iconpack.gx.s8",
             "picURL": "https://raw.githubusercontent.com/craftsapp/nresource/master/theme/theme_gx_s8.jpg",
