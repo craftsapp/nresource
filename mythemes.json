@@ -2,6 +2,18 @@
     "status": 1,
     "data": [
         {
+            "themeName": "Color Pixel",
+            "packageName": "me.moreapps.iconpack.color.pixel",
+            "picURL": "https://raw.githubusercontent.com/GreatAndroider/mresource/master/theme/theme_color_pixel.jpg",
+            "iconURL": "https://raw.githubusercontent.com/GreatAndroider/mresource/master/theme/logo_goldpro.png"
+        },
+        {
+            "themeName": "Retro Purple",
+            "packageName": "me.moreapps.iconpack.retro.purple",
+            "picURL": "https://raw.githubusercontent.com/GreatAndroider/mresource/master/theme/theme_retro_purple.jpg",
+            "iconURL": "https://raw.githubusercontent.com/GreatAndroider/mresource/master/theme/logo_goldpro.png"
+        },
+        {
             "themeName": "Vigour Icons",
             "packageName": "craftsicons.iconpack.vigour.icons",
             "picURL": "https://raw.githubusercontent.com/craftsapp/nresource/master/theme/theme_vigour_icons.jpg",
