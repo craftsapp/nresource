@@ -26,12 +26,6 @@
 			"iconURL": "https://raw.githubusercontent.com/MoreAppTeam/launcher/master/app_ads/transparent_screen_launcher_ad.png"
 		},
 		{
-			"themeName": "Thanks for try the game.",
-			"packageName": "com.uncleciba.spacevs",
-			"picURL": "https://raw.githubusercontent.com/MoreAppTeam/launcher/master/app_ads/launcher_game1.jpg",
-			"iconURL": "https://raw.githubusercontent.com/MoreAppTeam/launcher/master/app_ads/launcher_game1.jpg"
-		},
-		{
 			"themeName": "Enamel Icons",
 			"packageName": "craftsicons.iconpack.enamel.icons",
 			"picURL": "https://raw.githubusercontent.com/craftsapp/nresource/master/theme/theme_enamel.jpg",
