@@ -10,8 +10,8 @@
 		{
 			"themeName": "Video Wallpaper",
 			"packageName": "me.craftsapp.video.wallpaper",
-			"picURL": "https://raw.githubusercontent.com/MoreAppTeam/launcher/master/app_ads/videowallpaper_launcher2.jpg",
-			"iconURL": "https://raw.githubusercontent.com/MoreAppTeam/launcher/master/app_ads/videowallpaper_launcher2.jpg"
+			"picURL": "https://raw.githubusercontent.com/MoreAppTeam/launcher/master/app_ads/videowallpaper_launcher2_ad.jpg",
+			"iconURL": "https://raw.githubusercontent.com/MoreAppTeam/launcher/master/app_ads/videowallpaper_launcher2_ad.jpg"
 		},
 		{
 			"themeName": "GX S8 Icons",
@@ -22,8 +22,8 @@
 		{
 			"themeName": "Transparent Screen",
 			"packageName": "me.craftsapp.transparent.screen",
-			"picURL": "https://raw.githubusercontent.com/MoreAppTeam/launcher/master/app_ads/transparent_screen_launcher.png",
-			"iconURL": "https://raw.githubusercontent.com/MoreAppTeam/launcher/master/app_ads/transparent_screen_launcher.png"
+			"picURL": "https://raw.githubusercontent.com/MoreAppTeam/launcher/master/app_ads/transparent_screen_launcher_ad.png",
+			"iconURL": "https://raw.githubusercontent.com/MoreAppTeam/launcher/master/app_ads/transparent_screen_launcher_ad.png"
 		},
 		{
 			"themeName": "Thanks for try the game.",
