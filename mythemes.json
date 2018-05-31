@@ -16,7 +16,7 @@
 		{
 			"themeName": "GX S8 Icons",
 			"packageName": "craftsicons.iconpack.gx.s8",
-			"picURL": "https://raw.githubusercontent.com/craftsapp/nresource/master/theme/theme_gx_s8.jpg",
+			"picURL": "https://raw.githubusercontent.com/craftsapp/nresource/master/theme/theme_gx_s8_ad.jpg",
 			"iconURL": "https://raw.githubusercontent.com/craftsapp/nresource/master/theme/logo_goldpro.png"
 		},
 		{
@@ -53,7 +53,7 @@
 		{
 			"themeName": "Vigour Icons",
 			"packageName": "craftsicons.iconpack.vigour.icons",
-			"picURL": "https://raw.githubusercontent.com/craftsapp/nresource/master/theme/theme_vigour_icons.jpg",
+			"picURL": "https://raw.githubusercontent.com/craftsapp/nresource/master/theme/theme_vigour_icons_ad.jpg",
 			"iconURL": "https://raw.githubusercontent.com/craftsapp/nresource/master/theme/logo_goldpro.png"
 		},
 		{
@@ -65,13 +65,13 @@
 		{
 			"themeName": "Gold Icons Pro",
 			"packageName": "craftsicons.iconpack.a1.gold",
-			"picURL": "https://raw.githubusercontent.com/GreatAndroider/mresource/master/theme/theme_goldpro.jpg",
+			"picURL": "https://raw.githubusercontent.com/craftsapp/nresource/master/theme/theme_goldpro_ad.jpg",
 			"iconURL": "https://raw.githubusercontent.com/GreatAndroider/mresource/master/theme/logo_goldpro.png"
 		},
 		{
 			"themeName": "Black Silver Theme",
 			"packageName": "craftsicons.iconpack.black.silver",
-			"picURL": "https://raw.githubusercontent.com/craftsapp/nresource/master/theme/theme_black_silver.jpg",
+			"picURL": "https://raw.githubusercontent.com/craftsapp/nresource/master/theme/theme_black_silver_ad.jpg",
 			"iconURL": "https://raw.githubusercontent.com/craftsapp/nresource/master/theme/logo_black_silver.png"
 		},
 		{
